@@ -8,12 +8,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaramEl-Sayed&show_icons=true&theme=tokyonight" alt="Maram's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaramEl-Sayed&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
 
 ## 💻 Programming Languages
 
