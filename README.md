@@ -1,75 +1,69 @@
-# 👋 Hi, I'm Maram El-Sayed
+<h1 align="center">Hi there, I'm Maram El-Sayed! 👋</h1>
 
-🎓 AI Graduate | 💻 Full-Stack Python Developer | 🤖 Machine Learning Engineer  
-📍 Cairo, Egypt | 📫 maram.naserelsayed@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/maram-abdelnasser-0438a3253) • [GitHub](https://github.com/MaramEl-Sayed) • [Credly](https://www.credly.com/users/maram-el-sayed)
-
----
-
-## 🚀 About Me
-
-I'm a passionate AI Developer and Full-Stack Python Engineer with hands-on experience in building intelligent systems, deploying ML models, and crafting user-centric web applications.
-
-My work bridges cutting-edge machine learning with real-world usability — from predicting taxi fares and booking cancellations to developing donation platforms and smart assistant robots.
-
-I'm eager to contribute to impactful, purpose-driven projects, especially those combining AI, data, and people.
+<p align="center">
+  AI Developer • Full-Stack Python Engineer • ML Enthusiast  
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 📊 GitHub Stats
 
-**Languages:** Python, JavaScript, C++, C, HTML, CSS  
-**AI/ML:** Machine Learning, Deep Learning, NLP, LLMs (GPT, BERT), Computer Vision, Speech Recognition  
-**Frameworks:** Django, Flask, React, TensorFlow, PyTorch, Scikit-learn, OpenCV  
-**Web Development:** REST APIs, Tailwind, Bootstrap, Odoo ERP  
-**Databases:** PostgreSQL, MySQL, SQL, NoSQL  
-**Cloud & DevOps:** AWS, Docker  
-**Data Tools:** Pandas, Matplotlib, Seaborn, Plotly, Power BI  
-**Tools:** Git, GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaramEl-Sayed&show_icons=true&theme=tokyonight" alt="Maram's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaramEl-Sayed&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 💻 Programming Languages
 
-### 🧠 Hotel Booking Cancellation Predictor  
-ML pipeline to predict hotel booking cancellations with Flask deployment.  
-[GitHub](https://github.com/MaramEl-Sayed)
-
-### 🚕 NYC Taxi Fare Estimator  
-A regression model predicting taxi fares based on ride data.  
-Deployed with Django and a user-friendly interface.  
-[GitHub](https://github.com/MaramEl-Sayed)
-
-### ❤️ Athr (أثر) – Donation Web Platform  
-Full-stack platform built with Django, enabling users to start and donate to charitable campaigns in Egypt.  
-[GitHub](https://github.com/MaramEl-Sayed)
-
-### 🧠 Graduation Project – Multi-Tasking Smart Robot  
-AI-powered robot assistant using pose detection, medical imaging, NLP, speech recognition & navigation.  
-Helps children, the elderly, and people with special needs.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📚 Education
+## 🚀 Frameworks and Tools
 
-**B.Sc. in Artificial Intelligence**  
-Faculty of Computers and Artificial Intelligence, Benha University  
-GPA: 3.6 / 4.0 | Class of 2024
-
----
-
-## 📈 Certifications & Training
-
-- Intensive Full-Stack Python Developer Training @ ITI (2024–2025)
-- Machine Learning Internship @ Cellula Technologies (2024)
-- AWS Data Engineering Training (2023–2024)
-- Multiple projects on NLP, computer vision, and generative AI
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi)
 
 ---
 
-## 💬 Let's Connect
+## 🌟 Featured Projects
 
-I'm open to exciting collaborations, internships, freelance work, and building purposeful tech solutions.
+- 🧠 **[Hotel Booking Cancellation Predictor](https://github.com/MaramEl-Sayed)** – ML model with Flask frontend  
+- 🚕 **New York Taxi Fare Estimator** – Regression model deployed using Django  
+- ❤️ **[Athr – أثر](https://github.com/MaramEl-Sayed)** – Full-stack donation platform for Egypt  
+- 🤖 **Smart Companion Robot** – Graduation project using CV, NLP, and speech recognition  
 
-Feel free to reach out or explore my repos 👇  
-⭐ [github.com/MaramEl-Sayed](https://github.com/MaramEl-Sayed)
+---
+
+## 🎓 Education & Training
+
+🎓 B.Sc. in AI – Banha University (GPA 3.6/4.0)  
+📚 Full-Stack Python Dev @ ITI  
+☁️ AWS Data Engineering  
+🤖 ML Internship @ Cellula Technologies  
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maram-abdelnasser-0438a3253)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MaramEl-Sayed)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly)](https://www.credly.com/users/maram-el-sayed)
+
+---
+
+⭐ _Thanks for visiting! Feel free to explore my projects and connect._  
