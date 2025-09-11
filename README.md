@@ -35,10 +35,10 @@
 ---
 
 ## 🌟 Featured Projects
-- 📣 **[Stock Price Alerting System](https://github.com/MaramEl-Sayed/StockAlerter)** –  Django-based system for real-time monitoring stock prices and sending alerts to the users via emails and notifications. 
-- 🧠 **[Hotel Booking Cancellation Predictor](https://github.com/MaramEl-Sayed)** – ML model with Flask frontend  
+- 📣 **[Stock Price Alerting System](https://github.com/MaramEl-Sayed/StockAlerter)** –  Django-based system for real-time monitoring stock prices and sending alerts to the users via emails and notifications.
+- ❤️ **[CrowdFunding Platform](https://github.com/MaramEl-Sayed/Django-Crowdfunding-Platform)** – Full-stack donation platform built with Django ,React Js and Tailwind CSS 
 - 🚕 **[New York Taxi Fare Estimator](https://github.com/MaramEl-Sayed/Taxi-Fare-Prediction)** – Developed a machine learning model to estimate taxi fares from trip details, deployed it using Django.
-- ❤️ **[Athr – أثر](https://github.com/MaramEl-Sayed)** – Full-stack donation platform for Egypt  
+- 🧠 **[Hotel Booking Cancellation Predictor](https://github.com/MaramEl-Sayed)** – ML model with Flask frontend  
 - 🤖 **Smart Companion Robot** – Graduation project using CV, NLP, and speech recognition  
 
 ---
